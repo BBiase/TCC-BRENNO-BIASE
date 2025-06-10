@@ -1,0 +1,51 @@
+===========================FAISS=======================
+
+TC:0.0
+PE:O que significa TCC?
+TR:1.2184805870056152
+RE:Art. 33. Os casos omissos serão encaminhados à apreciação do Colegiado do Curso de Licenciatura em Computação. 
+CL:1
+
+
+TC:0.0
+PE:Quais são os objetivos da monografia?
+TR:0.3438398838043213
+RE:Art. 3º. Os objetivos gerais da Monografia são os de propiciar aos alunos do Curso de Licenciatura em Computação a oportunidade de demonstrar o grau de habilitação adquirido, o aprofundamento temático, o estímulo à produção científica, à consulta de bibliografia especializada e ao aprimoramento da capacidade de interpretação e crítica. Objetiva ainda a possibilidade do aluno desenvolver soluções tecnológicas inovadoras e adaptadas ao contexto do ensino. 
+CL:5
+
+TC:0.0
+PE:Quais são as atribuições do coordenador?
+TR:0.4061899185180664
+RE:Art. 5º. Ao Coordenador compete, em especial: I. Atender os alunos matriculados nos componentes curriculares de POIE I e II; II. Proporcionar, com a ajuda dos Professores Orientadores, orientação básica aos acadêmicos em fase de elaboração do POIE; III. Convocar, sempre que necessário, reuniões com os professores orientadores e alunos matriculados nos componentes curriculares do inciso I supra; IV. Publicar a relação de Professores Orientadores semestralmente; V. Elaborar cronograma de atividades a serem desenvolvidas no decorrer do semestre, em conformidade com o calendário acadêmico; VII. Manter arquivo atualizado, onde conste o nome e os dados de identificação do aluno em fase de elaboração do POIE; VIII. Coordenar a composição das Bancas Examinadoras; IX. Receber e validar os documentos solicitados; IX. Receber os Projetos de Pesquisa e as Monografias e encaminhá-los às Bancas Examinadoras; X. Publicar o cronograma de entrega de documentos, respeitando os prazos quando dispostos neste regulamento; XI. Manter arquivo atualizado das Atas das Defesas Públicas; XII. Providenciar o encaminhamento à Biblioteca, cópias das Monografias aprovadas com nota igual ou acima de 08 (oito); XIII. Efetivar as notas dos alunos matriculados; XIV. Tomar, no âmbito de sua competência, todas as demais medidas necessárias ao efetivo cumprimento deste regulamento. 
+CL:5 
+
+TC:0.0
+PE:O que o aluno deve fazer se não encontrar um orientador?
+TR:0.3750004768371582
+RE:Art. 7º. Na situação em que o aluno não encontre nenhum professor, que aceite assumir a sua orientação, deve procurar o Coordenador de POIE, a fim de que este lhe indique um Professor Orientador. Parágrafo Único. Na indicação de Professores Orientadores, o Coordenador deve observar o Projeto de Pesquisa e levar em consideração, sempre que possível, a distribuição de acordo com as áreas de interesse dos professores, bem como a distribuição equitativa de orientandos entre eles. 
+CL:5
+
+TC:0.0
+PE:Quem deve escrever a monografia?
+TR:0.4217255115509033
+RE:Art. 11. A responsabilidade pelo desenvolvimento da pesquisa e pela redação da Monografia é integralmente do aluno, o que não exime o Professor Orientador de desempenhar, adequadamente, dentro das normas definidas neste Regulamento, as atribuições decorrentes da sua atividade de orientação. § 1°. É obrigação do Professor Orientador verificar a originalidade da pesquisa e fidelidade das fontes pesquisadas e citadas na Monografia apresentada como POIE. § 2°. Fica o professor orientador, no ato, presidente da banca de avaliação do POIE, responsável pelo preenchimento dos formulários/fichas de pontuação, observando seus detalhes e orientações dos coordenadores do curso de Licenciatura em Computação e do POIE. 
+CL:5
+
+TC:0.0
+PE:Quanto o aluno deve tirar para ser aprovado em TCC?
+TR:0.406109094619751
+RE:Art. 30. O aluno que obtiver média igual ou superior a 4,0 (quatro) e inferior a 6,0 (seis) terá que realizar as correções solicitadas para ser submetido a uma nova avaliação. § 1o . A nota obtida pelo aluno será lançada em AP1 e AP2. § 2o . A nota PF será atribuída pela banca, Cap. VIII. Sendo 80% no trabalho escrito e 20% na defesa oral. 
+CL:3
+
+TC:0.0
+PE:O aluno que tirar nota 7 está aprovado?
+TR:0.3590831756591797
+RE:Art. 30. O aluno que obtiver média igual ou superior a 4,0 (quatro) e inferior a 6,0 (seis) terá que realizar as correções solicitadas para ser submetido a uma nova avaliação. § 1o . A nota obtida pelo aluno será lançada em AP1 e AP2. § 2o . A nota PF será atribuída pela banca, Cap. VIII. Sendo 80% no trabalho escrito e 20% na defesa oral. 
+CL:1
+
+TC:0.0
+PE:Quantos orientandos cada orientador pode ter?
+TR:0.40639233589172363
+RE:Art. 8º. Cada professor pode orientar no máximo 08 (oito) alunos por semestre, sendo que a elaboração dos respectivos Projetos Orientado em Informática na Educação fica sob a responsabilidade dos alunos, mediante as instruções recebidas durante a disciplina de Metodologia da Pesquisa para a elaboração do Projeto Orientado em Informática na Educação. Parágrafo Único. A carga horária mensal, por aluno, destinada à orientação da Monografia, para fins do cômputo da carga didática do docente no Plano de Trabalho, obedece às normas específicas em vigor no CESIT/UEA. 
+CL:5
+
