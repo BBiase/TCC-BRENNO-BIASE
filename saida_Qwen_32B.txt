@@ -1,0 +1,6 @@
+Modelo: Qwen:32b
+TC:7898.204865455627
+PE:1-O que significa TCC?
+TR:1339.65491771698
+RE:TCC significa Trabalho de Conclusão de Curso, que é um trabalho acadêmico exigido para a obtenção do diploma universitário, onde o aluno faz uma pesquisa profunda em um determinado tema e apresenta seus resultados em formato de monografia ou dissertação.
+
